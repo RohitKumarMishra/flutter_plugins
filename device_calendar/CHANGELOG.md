@@ -8,6 +8,7 @@
 * Updated example documentation for issue [119](https://github.com/builttoroam/flutter_plugins/issues/119)
 * Read-only calendars cannot be edited or deleted for the example app
 * Added `DayOfWeekGroup` enum and an extension `getDays` to get corresponding dates of the enum values (**NOTE**: `DayOfWeekGroup.Custom.getDays` will return an empty list)
+* Added support for deleting individual or multiple instances of a recurring event for issue [108](https://github.com/builttoroam/flutter_plugins/issues/108)
 
 ## 3.0.0 21st January 2020
 
